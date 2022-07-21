@@ -4,7 +4,7 @@
     "version": "1.0.2",
     "description": "Launcher Minecraft moddé VariantCraft",
     "main": "src/app.js",
-    "author": "Bode",
+    "author": "Bode SWIX",
     "url": "https://launchvariantcraft.ddns.net",
     "engines": {
         "node": "16.x.x"
@@ -20,6 +20,7 @@
     },
     "dependencies": {
         "electron-updater": "^5.0.1",
+        "git": "^0.1.5",
         "minecraft-java-core": "^2.1.1",
         "node-fetch": "^2.6.7"
     },
@@ -31,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/BodeSwix/VariantCraft-Launcher.git"
     }
 }

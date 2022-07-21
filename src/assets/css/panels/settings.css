@@ -15,30 +15,30 @@
     width: 160px;
     height: 37px;
     margin: auto 30px;
-    background: linear-gradient(to right, green, black);
-    border: 4px solid #00bd7a;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    border: 4px solid black;
     font: normal normal bold 20px/25px Poppins;
     cursor: pointer;
-    box-shadow: 0 0 5px #00bd7a;
+    box-shadow: 0 0 5px black;
     outline: none;
 }
 
 .tab-btn-css:hover {
-    background: linear-gradient(to right, green, black);
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #006e47;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    box-shadow: 0 0 5px black;
+    border: 4px solid black;
 }
 
 .active-tab-btn {
-    background: linear-gradient(to right, green, black);
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    border: 4px solid black;
+    box-shadow: 0 0 5px black;
 }
 
 .active-tab-btn:hover {
-    background: linear-gradient(to right, green, black);
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    border: 4px solid black;
+    box-shadow: 0 0 5px black;
 }
 
 .tabs-settings-content {
@@ -122,9 +122,9 @@
 
 .account {
     display: inline-block;
-    background: linear-gradient(to right, green, black);
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #00bd7a;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    box-shadow: 0 0 5px black;
+    border: 4px solid black;
     font: normal normal bold 30px/40px Poppins;
     width: 500px;
     height: 100px;
@@ -134,9 +134,9 @@
 }
 
 .account:hover {
-    background: linear-gradient(to right, green, black);
-    box-shadow: 0 0 5px #006e47;
-    border: 4px solid #006e47;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    box-shadow: 0 0 5px black;
+    border: 4px solid black;
 }
 
 .account-image {
@@ -188,15 +188,15 @@
 }
 
 .active-account {
-    background: linear-gradient(to right, green, black);
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    border: 4px solid black;
+    box-shadow: 0 0 5px black;
 }
 
 .active-account:hover {
-    background: linear-gradient(to right, green, black);
-    border: 4px solid #bd5d26;
-    box-shadow: 0 0 5px #bd5d26;
+    background: linear-gradient(to right, #145A32, #58D68D);
+    border: 4px solid black;
+    box-shadow: 0 0 5px black;
 }
 
 
@@ -238,7 +238,7 @@
     width: 20px;
     height: 10px;
     background: #F1F1F1;
-    border: 4px solid #00bd7a;
+    border: 4px solid black;
     transition: background-color .2s, border .2s;
     border-radius: 18px;
     cursor: pointer;
@@ -275,7 +275,7 @@
     display: block;
     height: 100%;
     width: 0%;
-    background: linear-gradient(to right, green, black);
+    background: linear-gradient(to right, #145A32, #58D68D);
     transition: background-color .2s;
 }
 
